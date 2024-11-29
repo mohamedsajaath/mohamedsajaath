@@ -5,7 +5,7 @@
 
 I'm a passionate **Web Developer** and **Shopify Developer** with a strong foundation in creating high-quality websites and e-commerce stores. I specialize in designing responsive, user-friendly websites and building custom Shopify stores that help businesses grow online. With a keen eye for detail and a drive for continuous learning, I strive to bring the best solutions to my clients.
 
-[Check out work GitHub profile](https://github.com/SajaathMohamed)
+[Check out my work GitHub profile](https://github.com/SajaathMohamed)
 
 ### 🔧 Skills & Technologies
 
