@@ -1,4 +1,4 @@
-![Banner](https://github.com/SajaathMohamed/SajaathMohamed/blob/main/Blue%20and%20White%20Geometric%20Modern%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
+![Banner](https://github.com/mohamedsajaath/mohamedsajaath/blob/main/Blue%20and%20White%20Geometric%20Modern%20Personal%20LinkedIn%20Banner%20(2).png)
 
 
 # Hi, I'm Mohamed Sajaath 👋
