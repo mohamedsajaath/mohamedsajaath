@@ -1,7 +1,7 @@
 ![Banner](https://github.com/SajaathMohamed/SajaathMohamed/blob/main/Blue%20and%20White%20Geometric%20Modern%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
 
 
-# Hi, I'm Sajaath Mohamed 👋
+# Hi, I'm Mohamed Sajaath 👋
 
 I'm a passionate **Web Developer** and **Shopify Developer** with a strong foundation in creating high-quality websites and e-commerce stores. I specialize in designing responsive, user-friendly websites and building custom Shopify stores that help businesses grow online. With a keen eye for detail and a drive for continuous learning, I strive to bring the best solutions to my clients.
 
@@ -49,12 +49,12 @@ I'm a passionate **Web Developer** and **Shopify Developer** with a strong found
   <tr>
      <td> 
     <a href="https://github.com/SajaathMohamed/README.md">
-      <img src="https://streak-stats.demolab.com/?user=SajaathMohamed&theme=default" alt="Sajaath's GitHub stats" />
+      <img src="https://streak-stats.demolab.com/?user=mohamedsajaath&theme=default" alt="Sajaath's GitHub stats" />
     </a>
     </td>
   
    <td><a href="https://github.com/SajaathMohamed/README.md">
-      <img src="https://github-readme-stats.vercel.app/api?username=SajaathMohamed&show_icons=true&theme=default&rank_icon=github" alt="Sajaath's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mohamedsajaath&show_icons=true&theme=default&rank_icon=github" alt="Sajaath's GitHub stats" />
     </a></td>
   </tr>
 </table>
@@ -62,17 +62,17 @@ I'm a passionate **Web Developer** and **Shopify Developer** with a strong found
 <table>
   <tr>
    <td><a href="https://github.com/SajaathMohamed/README.md">
-      <img src="https://github-contributor-stats.vercel.app/api?username=SajaathMohamed&limit=5&theme=default" alt="Sajaath's GitHub stats" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=mohamedsajaath&limit=5&theme=default" alt="Sajaath's GitHub stats" />
     </a></td>
     <td><a href="https://github.com/SajaathMohamed/README.md">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajaathMohamed&layout=compact&theme=default" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsajaath&layout=compact&theme=default" alt="Top Langs" />
     </a></td>
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SajaathMohamed&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedsajaath&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://visitcount.itsvg.in/api?id=SajaathMohamed&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mohamedsajaath&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!---
 VathanSilva/VathanSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
